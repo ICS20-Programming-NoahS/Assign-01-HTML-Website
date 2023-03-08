@@ -1,0 +1,19 @@
+/* Created by: Noah Smith
+* Created on: March 2023
+* This CSS file defines the style for pro_madden.html
+* ICS2O-Assign-01-HTML-Website
+*/
+
+ p {
+  color: #ff0000;
+}
+body {
+  background-color: forestgreen;
+}
+
+h1 {
+  background-color: rgb(244, 1, 1);
+  color: hsl(55, 100%, 60%);
+  padding: 40px;
+  text-align: center;
+}

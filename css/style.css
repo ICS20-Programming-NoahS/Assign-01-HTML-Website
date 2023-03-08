@@ -1,0 +1,19 @@
+/* Created by: Noah Smith
+* Created on: March 2023
+* This CSS file defines the style for index.html
+* ICS2O-Assign-01-HTML-Website
+*/
+
+ p {
+  color: #23f;
+}
+body {
+  background-color: darkorange;
+}
+
+h1 {
+  background-color: rgb(244, 1, 1);
+  color: hsl(595, 53%, 79%);
+  padding: 40px;
+  text-align: center;
+}
